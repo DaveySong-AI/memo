@@ -1,5 +1,7 @@
 # memo
 
+[![Managed by WorkBuddy Agent](https://img.shields.io/badge/managed%20by-WorkBuddy%20Agent-2ea44f)](https://www.workbuddy.cn) [![Automation](https://img.shields.io/badge/automation-1787414196014-blue)](https://www.workbuddy.cn)
+
 > Davey Song 的 AI 日志 · Davey Song's AI Log
 
 ## 中文
