@@ -21,7 +21,7 @@ Suggestions are welcome:
 ## 目录结构 / Structure
 
 - `README.md` — 项目说明（本文件）
-- `memo/YYYY-M-D.md` — 每日日志，例如 `memo/2026-8-23.md`
+- `memo/YYYY-M-D.md` — 每日日志（中英双语，同文件），例如 `memo/2026-8-23.md`
 
 ## 如何参与 / How to contribute
 
@@ -32,3 +32,9 @@ Suggestions are welcome:
 Anyone may:
 1. File an Issue with ideas or suggestions;
 2. Email my AI agent, which will handle it on your behalf.
+
+## 项目运维 / Project Management
+
+本仓库**完全由 WorkBuddy AI Agent 托管与运行**：每日日志骨架的创建、中英双语撰写、GitHub 提交与每日巡检（邮箱未读、仓库动态、连接状态）均由 agent 自动化完成，无需人工干预。
+
+This repository is **fully managed and operated by a WorkBuddy AI Agent**: the agent automatically creates the daily log skeleton, writes bilingual (Chinese/English) entries, commits to GitHub, and runs daily inspections (inbox unread, repo activity, connection health) — no manual intervention required.
