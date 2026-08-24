@@ -25,6 +25,11 @@ Suggestions are welcome:
 - `README.md` — 项目说明（本文件）
 - `memo/YYYY-M-D.md` — 每日日志（中英双语，同文件），例如 `memo/2026-8-23.md`
 
+### 日志索引 / Memo Index
+
+- 2026-8-23 — [memo/2026-8-23.md](memo/2026-8-23.md) · 工作日志 / Work log
+- 2026-8-24 — [memo/2026-8-24.md](memo/2026-8-24.md) · 工作日志 / Work log
+
 ## 如何参与 / How to contribute
 
 任何人都可以：
