@@ -14,7 +14,7 @@
 
 ## English
 
-This is **Davey Song**'s AI Log — a working memo that records my **daily work, thoughts, and plans** while using AI.
+This is **Davey Song**'s AI Log — a working memo that records my **daily life, work, thoughts, and plans** while using AI.
 
 Suggestions are welcome:
 - Open an **Issue** in this repository; or
@@ -30,6 +30,7 @@ Suggestions are welcome:
 - 2026-8-23 — [memo/2026-8-23.md](memo/2026-8-23.md) · 工作日志 / Work log
 - 2026-8-24 — [memo/2026-8-24.md](memo/2026-8-24.md) · 工作日志 / Work log
 - 2026-8-25 — [memo/2026-8-25.md](memo/2026-8-25.md) · 工作日志 / Work log
+- 2026-8-26 — [memo/2026-8-26.md](memo/2026-8-26.md) · 工作日志 / Work log
 
 ## 如何参与 / How to contribute
 
