@@ -29,6 +29,7 @@ Suggestions are welcome:
 
 - 2026-8-23 — [memo/2026-8-23.md](memo/2026-8-23.md) · 工作日志 / Work log
 - 2026-8-24 — [memo/2026-8-24.md](memo/2026-8-24.md) · 工作日志 / Work log
+- 2026-8-25 — [memo/2026-8-25.md](memo/2026-8-25.md) · 工作日志 / Work log
 
 ## 如何参与 / How to contribute
 
